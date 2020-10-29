@@ -1,2 +1,3 @@
-# lambda-layer-git
-AWS Lambda Layer with GIT
+# AWS Lambda Layer Git
+
+AWS Lambda Layer that has GIT executable.
